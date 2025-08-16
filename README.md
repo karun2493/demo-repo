@@ -1,2 +1,3 @@
 # demo-repo
-this is my first tutorial learnt repository
+This is my first tutorial learnt repository
+Author : karun Dutt
